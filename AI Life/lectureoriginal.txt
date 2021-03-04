@@ -1,0 +1,397 @@
+subGoalRad 1.5
+
+Obstacles 19
+
+obstacle 1
+200 250
+500 250
+500 300
+200 300
+
+obstacle 2
+900 500
+650 500
+650 550
+900 550
+
+obstacle 3
+900 250
+650 250
+650 300
+900 300
+
+obstacle 4
+200 400
+500 400
+500 450
+200 450
+
+obstacle 5
+200 500
+500 500
+500 550
+200 550
+
+obstacle 6
+900 400
+650 400
+650 450
+900 450
+
+obstacle 7
+200 150
+500 150
+500 200
+200 200
+
+obstacle 8
+900 150
+650 150
+650 200
+900 200
+
+obstacle 9
+100 20
+300 20
+300 70
+100 70
+
+obstacle 10
+300 20
+500 20
+500 70
+300 70
+
+obstacle 11
+500 20
+700 20
+700 70
+500 70
+
+obstacle 12
+700 20
+900 20
+900 70
+700 70
+
+obstacle 13
+250 610
+450 610
+450 660
+250 660
+
+obstacle 14
+450 610
+650 610
+650 660
+450 660
+
+obstacle 15
+650 610
+850 610
+850 660
+650 660
+
+obstacle 16
+10 155
+60 155
+60 10
+10 10
+
+obstacle 17
+10 320
+60 320
+60 165
+10 165
+
+obstacle 18
+10 485
+60 485
+60 330
+10 330
+
+obstacle 19
+10 645
+60 645
+60 495
+10 495
+
+
+
+
+
+Goals 15
+goal 0.80173 0.49957
+goal 0.80173 0.51
+goal 0.80173 0.53
+goal 0.80173 0.55
+goal 0.80173 0.59
+goal 0.9 0.50
+goal 0.80173 0.935
+goal 0.80173 0.955
+goal 0.80173 0.925
+goal 0.80173 0.915
+goal 0.80173 0.940
+goal 0.80173 0.945
+goal 0.80173 0.955
+goal 0.80173 0.96
+goal 0.80173 0.965
+
+
+
+ 
+agentCircles 50
+
+
+
+peopleCircle
+type hostile
+position 210 160
+speed 1 
+
+peopleCircle
+type hostile
+position 210 170 
+speed 8
+
+peopleCircle
+type hostile
+position 210 190 
+speed 4
+
+peopleCircle
+type hostile
+position 810 250 
+speed 4
+
+peopleCircle
+type hostile
+position 810 550 
+speed 4
+
+peopleCircle
+type hostile
+position 60 400 
+speed 4
+
+peopleCircle
+type hostile
+position 60 450 
+speed 8
+
+
+peopleCircle
+type hostile
+position 60 500 
+speed 4
+
+peopleCircle
+type hostile
+position 60 550 
+speed 4
+
+peopleCircle
+type hostile
+position 60 200 
+speed 4
+
+peopleCircle
+type hostile
+position 60 250 
+speed 4
+
+peopleCircle
+type hostile
+position 60 300 
+speed 4
+
+peopleCircle
+type hostile
+position 60 350 
+speed 4
+
+peopleCircle
+type hostile
+position 60 350 
+speed 4
+
+peopleCircle
+type hostile
+position 310 100 
+speed 4
+
+peopleCircle
+type hostile
+position 210 100 
+speed 4
+
+peopleCircle
+type hostile
+position 350 100 
+speed 4
+
+peopleCircle
+type hostile
+position 410 100 
+speed 4
+
+peopleCircle
+type hostile
+position 440 100 
+speed 4
+
+peopleCircle
+type hostile
+position 490 100 
+speed 4
+
+peopleCircle
+type hostile
+position 550 100 
+speed 4
+
+peopleCircle
+type hostile
+position 590 100 
+speed 4
+
+peopleCircle
+type hostile
+position 310 250 
+speed 4
+
+peopleCircle
+type hostile
+position 210 250 
+speed 4
+
+peopleCircle
+type hostile
+position 350 250 
+speed 4
+
+peopleCircle
+type hostile
+position 410 250 
+speed 4
+
+peopleCircle
+type hostile
+position 440 250 
+speed 4
+
+peopleCircle
+type hostile
+position 490 250 
+speed 4
+
+peopleCircle
+type hostile
+position 550 250 
+speed 4
+
+peopleCircle
+type hostile
+position 590 250 
+speed 4
+
+peopleCircle
+type hostile
+position 310 400 
+speed 4
+
+peopleCircle
+type hostile
+position 210 400 
+speed 4
+
+peopleCircle
+type hostile
+position 350 400 
+speed 4
+
+peopleCircle
+type hostile
+position 410 400 
+speed 4
+
+peopleCircle
+type hostile
+position 440 400 
+speed 4
+
+peopleCircle
+type hostile
+position 490 400 
+speed 4
+
+peopleCircle
+type hostile
+position 550 400 
+speed 4
+
+peopleCircle
+type hostile
+position 590 400 
+speed 4
+
+peopleCircle
+type hostile
+position 310 500 
+speed 4
+
+peopleCircle
+type hostile
+position 210 500 
+speed 4
+
+peopleCircle
+type hostile
+position 350 500 
+speed 4
+
+peopleCircle
+type hostile
+position 410 500 
+speed 4
+
+peopleCircle
+type hostile
+position 440 500 
+speed 4
+
+peopleCircle
+type hostile
+position 490 500 
+speed 4
+
+peopleCircle
+type hostile
+position 550 500 
+speed 4
+
+peopleCircle
+type hostile
+position 590 500 
+speed 4
+
+
+peopleCircle
+type hostile
+position 440 550 
+speed 4
+
+peopleCircle
+type hostile
+position 490 550 
+speed 4
+
+peopleCircle
+type hostile
+position 550 550 
+speed 4
+
+peopleCircle
+type hostile
+position 590 550 
+speed 4

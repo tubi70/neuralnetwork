@@ -1,0 +1,127 @@
+subGoalRad 1.5
+
+Obstacles 21
+
+obstacle 1
+200 250
+500 250
+500 300
+200 300
+
+obstacle 2
+800 500
+550 500
+550 550
+800 550
+
+obstacle 3
+800 250
+550 250
+550 300
+800 300
+
+obstacle 4
+200 400
+500 400
+500 450
+200 450
+
+obstacle 5
+200 500
+500 500
+500 550
+200 550
+
+obstacle 6
+800 400
+550 400
+550 450
+800 450
+
+obstacle 7
+200 150
+500 150
+500 200
+200 200
+
+obstacle 8
+800 150
+550 150
+550 200
+800 200
+
+obstacle 9
+100 20
+300 20
+300 70
+100 70
+
+obstacle 10
+300 20
+500 20
+500 70
+300 70
+
+obstacle 11
+500 20
+700 20
+700 70
+500 70
+
+obstacle 12
+700 20
+900 20
+900 70
+700 70
+
+obstacle 13
+250 620
+450 620
+450 670
+250 670
+
+obstacle 14
+450 620
+650 620
+650 670
+450 670
+
+obstacle 15
+650 620
+850 620
+850 670
+650 670
+
+
+
+Goals 12
+goal 0.80173 0.29957
+goal 0.80173 0.3067
+goal 0.80173 0.328
+goal 0.80173 0.335
+goal 0.80173 0.342
+goal 0.80173 0.349
+goal 0.80173 0.584
+goal 0.80173 0.592
+goal 0.80173 0.613
+goal 0.80173 0.621
+goal 0.80173 0.628
+goal 0.80173 0.635
+
+ 
+agentCircles 3
+
+peopleCircle
+type hostile
+position 810 260 
+
+peopleCircle
+type hostile
+position 210 160 
+
+peopleCircle
+type hostile
+position 110 30 
+
+
+
